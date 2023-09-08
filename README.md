@@ -33,4 +33,13 @@ Meshroom: https://github.com/alicevision/Meshroom
 
 awesome-point-cloud-registration: https://github.com/orgs/community/discussions/49441
 
+Ultra-Fast-Lane-Detection： https://github.com/cfzd/Ultra-Fast-Lane-Detection
+
+Awesome-Lane-Detection: https://github.com/Charmve/Awesome-Lane-Detection
+
+dl-vision-papers: https://github.com/huayong/dl-vision-papers
+
+48本3D视觉领域学习书籍: https://mp.weixin.qq.com/s/r9DFTpH7t8aItFGlbq5-ag
+
+
 
