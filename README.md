@@ -21,3 +21,16 @@ Awesome-Deep-Camera-Calibration: https://github.com/KangLiao929/Awesome-Deep-Cam
 
 Learning-based Camera Calibration： https://github.com/Easonyesheng/CCS
 
+CornerNet-Lite: Training, Evaluation and Testing Code: https://github.com/princeton-vl/CornerNet-Lite
+
+Computer Science Books: https://github.com/txfly/CS
+
+Learning-OpenCV-3_examples: https://github.com/oreillymedia/Learning-OpenCV-3_examples/tree/master
+
+Awesome Computer Vision: https://github.com/jbhuang0604/awesome-computer-vision
+
+Meshroom: https://github.com/alicevision/Meshroom
+
+awesome-point-cloud-registration: https://github.com/orgs/community/discussions/49441
+
+
