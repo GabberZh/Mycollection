@@ -1,0 +1,2 @@
+# Mycollection
+Various information collected
