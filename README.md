@@ -42,4 +42,9 @@ dl-vision-papers: https://github.com/huayong/dl-vision-papers
 48本3D视觉领域学习书籍: https://mp.weixin.qq.com/s/r9DFTpH7t8aItFGlbq5-ag
 
 
+## 武汉大学
+Prof. Zhen Dong： https://dongzhenwhu.github.io/index.html 
+Haiping Wang： https://hpwang-whu.github.io/
+
+
 
