@@ -46,5 +46,8 @@ C++那些事儿： https://github.com/Light-City/CPlusPlusThings
 Prof. Zhen Dong： https://dongzhenwhu.github.io/index.html 
 Haiping Wang： https://hpwang-whu.github.io/
 
+## Improved Structure from Motion Using Fiducial Marker Matching
+https://github.com/CogChameleon/MarkerSfM
+
 
 
