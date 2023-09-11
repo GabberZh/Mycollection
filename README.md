@@ -41,6 +41,8 @@ dl-vision-papers: https://github.com/huayong/dl-vision-papers
 
 48本3D视觉领域学习书籍: https://mp.weixin.qq.com/s/r9DFTpH7t8aItFGlbq5-ag
 
+C++那些事儿： https://github.com/Light-City/CPlusPlusThings
+
 
 ## 武汉大学
 Prof. Zhen Dong： https://dongzhenwhu.github.io/index.html 
