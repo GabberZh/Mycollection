@@ -31,8 +31,6 @@ Awesome Computer Vision: https://github.com/jbhuang0604/awesome-computer-vision
 
 Meshroom: https://github.com/alicevision/Meshroom
 
-awesome-point-cloud-registration: https://github.com/orgs/community/discussions/49441
-
 Ultra-Fast-Lane-Detection： https://github.com/cfzd/Ultra-Fast-Lane-Detection
 
 Awesome-Lane-Detection: https://github.com/Charmve/Awesome-Lane-Detection
