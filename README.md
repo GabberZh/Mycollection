@@ -41,6 +41,7 @@ dl-vision-papers: https://github.com/huayong/dl-vision-papers
 
 C++那些事儿： https://github.com/Light-City/CPlusPlusThings
 
+DPOD: 6D Pose Object Detector and Refiner： https://github.com/zakharos/DPOD
 
 ## 武汉大学
 Prof. Zhen Dong： https://dongzhenwhu.github.io/index.html 
