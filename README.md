@@ -45,6 +45,8 @@ DPOD: 6D Pose Object Detector and Refiner： https://github.com/zakharos/DPOD
 
 MVision：https://github.com/Ewenwan/MVision/tree/master
 
+2D-3D：https://github.com/GabbySuwichaya/2D-3D-Matching
+
 一篇文章教你学会使用三维重建知名开源系统: https://zhuanlan.zhihu.com/p/617362102?utm_id=0
 ## 武汉大学
 Prof. Zhen Dong： https://dongzhenwhu.github.io/index.html 
