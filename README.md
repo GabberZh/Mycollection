@@ -43,6 +43,8 @@ C++那些事儿： https://github.com/Light-City/CPlusPlusThings
 
 DPOD: 6D Pose Object Detector and Refiner： https://github.com/zakharos/DPOD
 
+MVision：https://github.com/Ewenwan/MVision/tree/master
+
 一篇文章教你学会使用三维重建知名开源系统: https://zhuanlan.zhihu.com/p/617362102?utm_id=0
 ## 武汉大学
 Prof. Zhen Dong： https://dongzhenwhu.github.io/index.html 
