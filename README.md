@@ -54,11 +54,12 @@ MVision：https://github.com/Ewenwan/MVision/tree/master
 C++ Primer Plus 第六版中文版原书代码和习题解答：https://github.com/ShujiaHuang/Cpp-Primer-Plus-6th
 
 《C++ Primer 中文版（第 5 版）》学习仓库，包括笔记和课后练习答案： https://github.com/applenob/Cpp_Primer_Practice
+
+大连理工大学：https://github.com/dlut-dimt
+
 ## 武汉大学
 Prof. Zhen Dong： https://dongzhenwhu.github.io/index.html 
 Haiping Wang： https://hpwang-whu.github.io/
-
-大连理工大学：https://github.com/dlut-dimt
 
 ## Improved Structure from Motion Using Fiducial Marker Matching
 https://github.com/CogChameleon/MarkerSfM
