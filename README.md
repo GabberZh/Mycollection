@@ -58,6 +58,8 @@ C++ Primer Plus 第六版中文版原书代码和习题解答：https://github.c
 Prof. Zhen Dong： https://dongzhenwhu.github.io/index.html 
 Haiping Wang： https://hpwang-whu.github.io/
 
+大连理工大学：https://github.com/dlut-dimt
+
 ## Improved Structure from Motion Using Fiducial Marker Matching
 https://github.com/CogChameleon/MarkerSfM
 
