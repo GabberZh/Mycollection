@@ -57,6 +57,8 @@ C++ Primer Plus 第六版中文版原书代码和习题解答：https://github.c
 
 大连理工大学：https://github.com/dlut-dimt
 
+OpenCV-MinGW-Build: https://github.com/huihut/OpenCV-MinGW-Build
+
 ## 武汉大学
 Prof. Zhen Dong： https://dongzhenwhu.github.io/index.html 
 Haiping Wang： https://hpwang-whu.github.io/
